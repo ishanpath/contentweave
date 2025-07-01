@@ -1,4 +1,4 @@
-This project uses Gemini AI, TypeScript, Tailwind, Drizzle ORM, and Shadcn to create captions and threads for Instagram, Twitter and LinkedIn posts.
+This project uses Gemini AI, TypeScript, Tailwind, Drizzle ORM, Neon, and Shadcn to create captions and threads for Instagram, Twitter and LinkedIn posts.
 Authentication is taken care of by Clerk, and there is no pricing plan set up.
 ![image](https://github.com/user-attachments/assets/8919025c-882f-4801-a657-0050183083ac)
 
